@@ -4,7 +4,7 @@
 **IsaacOrtga/IsaacOrtga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div id="header" align="center" class="container">
-                        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+                        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
                          <h1 align="center">Desarrollador junior full-stack MERN</h1>
   <h3 align="center">Apasionado por el continuo aprendizaje, con amplias capacidades para trabajar en equipo y establecer vínculos de comunicación. Amante de la literatura, la música y el código.</h3>
    </div>
