@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**IsaacOrtga/IsaacOrtga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IsaacOrtga/IsaacOrtga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Desarrollador junior full-stack MERN. 
 
