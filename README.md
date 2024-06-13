@@ -24,7 +24,7 @@ Aplicación para el tiempo. React, api.openweathermap.org y Freepik
 
 ## Contacto 💬
 
-- [LinkedIn]([https://www.linkedin.com/in/isaac-ortega-acosta/)
+- [LinkedIn](https://www.linkedin.com/in/isaac-ortega-acosta/)
 - [Correo Electrónico](mailto:ortga.isaac@gmail.com)
 - [Portfolio](http://isaacortga.github.io/)
 
