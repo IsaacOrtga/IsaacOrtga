@@ -13,7 +13,7 @@ Soy un desarrollador front-end con una pasión por el uso de variedad de tecnolo
 
 ## Proyectos Destacados 🚀
 
-### [Aplicación para academias de baile](https://github.com/IsaacOrtga/laIndustria_app)
+### [AcademiaPro](https://github.com/IsaacOrtga/laIndustria_app)
 Aplicación para gestión de personal, alumnos, altas, bajas y calendario (de personal y de academia). React.js, Node.js, Material-ui, CSS
 
 ### [CheckBooks](https://github.com/IsaacOrtga/myLibrary)
