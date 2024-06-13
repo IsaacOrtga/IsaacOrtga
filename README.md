@@ -43,7 +43,7 @@ Aplicación para el tiempo. React, api.openweathermap.org y Freepik
 
 ## Actividad Reciente 📈
 
-[Visita mi repositorio "AcademiaPro" en GitHub](https://github.com/IsaacOrtga/laIndustria_app)
+[Visita mi repositorio "AcademiaPro"](https://github.com/IsaacOrtga/laIndustria_app)
 
 
 ---
