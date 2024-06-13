@@ -16,7 +16,7 @@ Soy un desarrollador front-end con una pasión por el uso de variedad de tecnolo
 ### [Aplicación para academias de baile](https://github.com/IsaacOrtga/laIndustria_app)
 Aplicación para gestión de personal, alumnos, altas, bajas y calendario (de personal y de academia). React.js, Node.js, Material-ui, CSS
 
-### [CheckBooks](enlace-al-repo](https://github.com/IsaacOrtga/myLibrary)
+### [CheckBooks](https://github.com/IsaacOrtga/myLibrary)
 Página web para gestionar lecturas. Formulario de búsqueda consumiendo API Google Books. Inicio de sesión, apartado de Librería (libros pendientes) y Biblioteca (leídos). React.js, Storage y Cookies
 
 ### [Some Weather App](https://github.com/IsaacOrtga/weatherApi)
